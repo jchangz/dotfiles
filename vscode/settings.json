@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "'Ubuntu Mono',  Consolas, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "editor.renderWhitespace": "trailing",
+    "explorer.compactFolders": false,
+    "search.mode": "newEditor",
+}
