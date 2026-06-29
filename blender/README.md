@@ -1,5 +1,9 @@
 # blender
 
+- [pzthree gumroad](https://pzthree.gumroad.com)
+- [turbosmooth modifier](https://www.youtube.com/watch?v=7tfPF7-Fyyo)
+- [sculpt layers](https://superhivemarket.com/products/sculpt-layers)
+
 ## hardops
 
 [hopsDocs](https://hardops-manual.readthedocs.io/en/latest/hops_official)
