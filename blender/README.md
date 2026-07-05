@@ -16,3 +16,15 @@
 | Show Cutters                  | Shift + H                     |
 | Hide Cutters                  | Alt + H                       |
 | Scroll Modifiers (EverScroll) | Q → EverScroll + Scroll Wheel |
+
+## Preferences
+
+### Interface
+
+- Status Bar: `Show: Scene Statistics`
+
+### Keymap
+
+- Spacebar Action: `Tools`
+- Bevel: `Outer Miter: Arc`
+- Knife: `Measurement: Angle`
