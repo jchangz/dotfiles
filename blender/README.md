@@ -8,6 +8,16 @@
 
 [hopsDocs](https://hardops-manual.readthedocs.io/en/latest/hops_official)
 
+| Shortcut      | Action    |
+| ------------- | --------- |
+| Context Menu  | Q         |
+| Helper        | Ctrl + ~  |
+| Viewport Menu | Alt + V   |
+| Material Menu | Alt + M   |
+| Pie Menu      | Shift + Q |
+
+## boxcutter
+
 | Shortcut                      | Action                        |
 | ----------------------------- | ----------------------------- |
 | Activate Boxcutter            | Alt + W                       |
