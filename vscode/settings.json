@@ -1,7 +1,20 @@
 {
-    "editor.fontFamily": "'Ubuntu Mono',  Consolas, 'Courier New', monospace",
-    "editor.fontSize": 16,
-    "editor.renderWhitespace": "trailing",
-    "explorer.compactFolders": false,
-    "search.mode": "newEditor",
+  "editor.fontFamily": "'Ubuntu Mono', Consolas, 'Courier New', monospace",
+  "editor.fontSize": 16,
+  "editor.renderWhitespace": "trailing",
+  "explorer.compactFolders": false,
+  "search.mode": "newEditor",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // "editor.formatOnSave": true
+
+  // Prettier Specific Settings
+  // "prettier.semi": false,
+  "prettier.printWidth": 120,
+  "prettier.documentSelectors": ["**/*.astro"],
+
+  // Playwright
+  // "playwright.reuseBrowser": true,
+  // "playwright.showTrace": false,
+
+  "markdown-preview-github-styles.colorTheme": "light"
 }
