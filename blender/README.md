@@ -4,6 +4,17 @@
 - [turbosmooth modifier](https://www.youtube.com/watch?v=7tfPF7-Fyyo)
 - [sculpt layers](https://superhivemarket.com/products/sculpt-layers)
 
+## general
+
+### Mesh Separation & Splitting Tools
+
+| Shortcut    | Action     | Works On | Behaviour                                                      |
+| :---------- | :--------- | :------- | :------------------------------------------------------------- |
+| **Y**       | _Split_    | V, E, F  | Detaches selection but keeps it inside the same object.        |
+| **V**       | _Rip_      | V, E     | Tears open a hole at the selection and lets you drag it apart. |
+| **Alt + V** | _Rip Fill_ | V, E     | Tears open the selection, but fills the gap with new geometry. |
+| **P**       | _Separate_ | V, E, F  | Cuts out selection and moves it into its own brand-new object. |
+
 ## hardops
 
 [hopsDocs](https://hardops-manual.readthedocs.io/en/latest/hops_official)
