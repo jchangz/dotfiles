@@ -6,6 +6,11 @@
 
 ## general
 
+| Shortcut           | Action            |
+| ------------------ | ----------------- |
+| Dissolve Selection | Ctrl + X          |
+| Inset Depth        | Inset face + Ctrl |
+
 ### Mesh Separation & Splitting Tools
 
 | Shortcut    | Action     | Works On | Behaviour                                                      |
@@ -27,6 +32,7 @@
 | Material Menu     | Alt + M          |
 | Pie Menu          | Shift + Q        |
 | Bevel/Bool Helper | Ctrl + Shift + B |
+| Mirror Tool       | Alt + X          |
 
 ## boxcutter
 
@@ -54,3 +60,8 @@
 - Spacebar Action: `Tools`
 - Bevel: `Outer Miter: Arc`
 - Knife: `Measurement: Angle`
+
+### To Dos
+
+- Shorcut for select more/less,select boundary loop, select inner region
+- Use edge rail for curved surfaces
