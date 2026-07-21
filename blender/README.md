@@ -6,10 +6,15 @@
 
 ## general
 
-| Shortcut           | Action            |
-| ------------------ | ----------------- |
-| Dissolve Selection | Ctrl + X          |
-| Inset Depth        | Inset face + Ctrl |
+| Shortcut                   | Action            |
+| -------------------------- | ----------------- |
+| Dissolve Selection         | Ctrl + X          |
+| Inset Depth                | Inset face + Ctrl |
+| Maximize Hovered Area      | Ctrl + Spacebar   |
+| Viewport Nav Pie Menu      | Backtick (`)      |
+| Zoom Viewport to Drawn Box | Shift + B         |
+| Draw Render Region Box     | Ctrl + B          |
+| Clear Render Region Box    | Ctrl + Alt + B    |
 
 ### Mesh Separation & Splitting Tools
 
@@ -48,6 +53,7 @@
 | Show Cutters                  | Shift + H                     |
 | Hide Cutters                  | Alt + H                       |
 | Scroll Modifiers (EverScroll) | Q → EverScroll + Scroll Wheel |
+| Extrude/Offset                | E                             |
 
 ## Preferences
 
