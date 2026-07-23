@@ -6,15 +6,19 @@
 
 ## general
 
-| Shortcut                   | Action            |
-| -------------------------- | ----------------- |
-| Dissolve Selection         | Ctrl + X          |
-| Inset Depth                | Inset face + Ctrl |
-| Maximize Hovered Area      | Ctrl + Spacebar   |
-| Viewport Nav Pie Menu      | Backtick (`)      |
-| Zoom Viewport to Drawn Box | Shift + B         |
-| Draw Render Region Box     | Ctrl + B          |
-| Clear Render Region Box    | Ctrl + Alt + B    |
+| Shortcut                    | Action                 |
+| --------------------------- | ---------------------- |
+| Dissolve Selection          | Ctrl + X               |
+| Inset Depth                 | Inset face + Ctrl      |
+| Maximize Hovered Area       | Ctrl + Spacebar        |
+| Full Screen Area            | Ctrl + Alt + Spacebar  |
+| Viewport Nav Pie Menu       | Backtick (`)           |
+| Zoom Viewport to Drawn Box  | Shift + B              |
+| Draw Render Region Box      | Ctrl + B               |
+| Clear Render Region Box     | Ctrl + Alt + B         |
+| Extrude Menu                | Alt + E                |
+| Copy Attributes to Selected | Ctrl + L (Object Mode) |
+| Select Connected Geometry   | Ctrl + L (Edit Mode)   |
 
 ### Mesh Separation & Splitting Tools
 
